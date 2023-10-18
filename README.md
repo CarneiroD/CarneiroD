@@ -17,7 +17,7 @@ Hi! My name is Lucas Carneiro. I'm a technology enthusiast and currently a stude
 
 ## Goals
 
-My main objective is to secure my first opportunity in the field of technology. I'm constantly working on improving my programming skills and seeking opportunities to apply my knowledge to interesting projects. I aim to contribute to the developer community and continue learning.
+My main objective is to secure my first opportunity in the technology industry. I'm constantly working on improving my programming skills and seeking opportunities to apply my knowledge to interesting projects. I aim to contribute to the developer community and continue learning.
 
 ## Contact
 
