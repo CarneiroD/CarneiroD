@@ -15,9 +15,19 @@ Hi! My name is Lucas Carneiro. I'm a technology enthusiast and currently a stude
 - Python
 - Database Concepts
 
+Here are some of the websites developed by me where I currently work:
+
+https://thalitamerluzzi.com.br/
+https://dralilian.com.br/
+
 ## Goals
 
-My main objective is to secure my first opportunity in the technology industry. I'm constantly working on improving my programming skills and seeking opportunities to apply my knowledge to interesting projects. I aim to contribute to the developer community and continue learning.
+👋 Hello, there! I'm Lucas Carneiro, a passionate individual diving into the world of technology with a keen interest in development. Currently, I'm gaining valuable experience as a web development intern, where I'm honing my skills and immersing myself in the dynamic realm of tech.
+
+🚀 My primary goal is to secure my footing in the technology industry, leveraging every opportunity to enhance my programming proficiency and apply my knowledge to engaging projects. I am enthusiastic about contributing to the developer community, exchanging ideas, and perpetually expanding my horizons.
+
+🔍 Let's connect, collaborate, and learn together! Feel free to reach out for discussions, collaborations, or insights into my ongoing journey in the tech sphere. Excited for what lies ahead and eager to make meaningful contributions to this ever-evolving field!
+
 
 ## Contact
 
