@@ -10,6 +10,9 @@ Hi! My name is Lucas Carneiro. I'm a technology enthusiast and currently a stude
 - HTML5
 - CSS3
 - JavaScript
+- Wordpress
+- OxygenBuilder
+- SEO
 
 **Familiar with:**
 - Python
@@ -17,7 +20,7 @@ Hi! My name is Lucas Carneiro. I'm a technology enthusiast and currently a stude
 
 Here are some of the websites developed by me where I currently work:
 
-https://thalitamerluzzi.com.br/
+https://thalitamerluzzi.com.br/ <br>
 https://dralilian.com.br/
 
 ## Goals
