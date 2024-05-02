@@ -7,16 +7,17 @@ Hi! My name is Lucas Carneiro. I'm a technology enthusiast and currently a stude
 ### Skills
 
 **Proficient in:**
-- HTML5
-- CSS3
+- Kotlin
+- Java
 - JavaScript
 - Wordpress
-- OxygenBuilder
+- CSS3
+- HTML5
 - SEO
 
 **Familiar with:**
 - Python
-- Database Concepts
+- Database Concepts (Oracle, MySQL)
 
 Here are some of the websites developed by me where I currently work:
 
