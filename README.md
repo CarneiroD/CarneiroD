@@ -20,7 +20,7 @@ Here are some of the websites developed by me where I currently work:
 
 https://thalitamerluzzi.com.br/ <br>
 https://dralilian.com.br/ <br>
-https://mcgard2.suryamkt.com.br/ (Still in development)
+https://mcgard.com.br/
 
 ## Goals
 
