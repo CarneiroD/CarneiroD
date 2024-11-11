@@ -7,8 +7,8 @@ Hi! My name is Lucas Carneiro. I'm a technology enthusiast and currently a stude
 ### Skills
 
 **Proficient in:**
-- Kotlin
-- Java
+- MySQL
+- Python
 - JavaScript
 - Wordpress
 - CSS3
