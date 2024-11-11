@@ -9,15 +9,12 @@ Hi! My name is Lucas Carneiro. I'm a technology enthusiast and currently a stude
 **Proficient in:**
 - MySQL
 - Python
+- DataBases
 - JavaScript
 - Wordpress
 - CSS3
 - HTML5
 - SEO
-
-**Familiar with:**
-- Python
-- Database Concepts (Oracle, MySQL)
 
 Here are some of the websites developed by me where I currently work:
 
