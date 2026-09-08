@@ -33,7 +33,7 @@ https://thalitamerluzzi.com.br/
 
 ## Contact
 
-- LinkedIn: [Lucas Carneiro](https://www.linkedin.com/in/lucas-carneiro-da-silva/)
+- LinkedIn: [Lucas Carneiro](https://www.linkedin.com/in/lucaslindholz)
 
 Feel free to reach out and connect with me on LinkedIn. I'm always open to collaborations and learning opportunities!
 
