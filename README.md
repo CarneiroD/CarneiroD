@@ -1,40 +1,57 @@
-# Lucas Carneiro
+# Lucas Lindholz
 
-## About Me
+### Desenvolvedor de Software | C# · .NET · JavaScript
 
-Hi! My name is Lucas Carneiro. I'm a technology enthusiast and currently a student pursuing a degree in Software Analysis and Development.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho experiência com **desenvolvimento web**, principalmente utilizando WordPress, HTML, CSS e JavaScript.
 
-### Skills
+Atualmente, estou ampliando minha atuação para o desenvolvimento de software com **C# e .NET**, criando aplicações desktop e sistemas cliente-servidor.
 
-**Proficient in:**
-- MySQL
-- Python
-- DataBases
-- JavaScript
-- Wordpress
-- CSS3
-- HTML5
-- SEO
+## 🛠️ Tecnologias e conhecimentos
 
-Here are some of the websites developed by me where I currently work:
+* **C# / .NET / WPF**
+* **JavaScript / HTML5 / CSS3**
+* **Python**
+* **WordPress**
+* **MySQL e bancos de dados**
+* **SEO**
+* **Git e GitHub**
+* **Conceitos iniciais de redes e TCP/IP**
 
-https://mcgard.com.br/ <br>
-https://dralilian.com.br/ <br>
-https://thalitamerluzzi.com.br/
+## 🚀 Projeto atual
 
-## Goals
+Atualmente estou desenvolvendo um **sistema de controle de computadores em rede**, utilizando:
 
-👋 Hello, there! I'm Lucas Carneiro, a passionate individual diving into the world of technology with a keen interest in development. Currently, I'm gaining valuable experience as a web development intern, where I'm honing my skills and immersing myself in the dynamic realm of tech.
+* C# e .NET 10
+* WPF
+* Arquitetura cliente-servidor
+* Comunicação via TCP
+* Controle de sessões e tempo de uso
+* Bloqueio e desbloqueio de computadores
+* Gerenciamento de múltiplos clientes
 
-🚀 My primary goal is to secure my footing in the technology industry, leveraging every opportunity to enhance my programming proficiency and apply my knowledge to engaging projects. I am enthusiastic about contributing to the developer community, exchanging ideas, and perpetually expanding my horizons.
+O projeto representa minha evolução do desenvolvimento web para o desenvolvimento de **sistemas e aplicações desktop**.
 
-🔍 Let's connect, collaborate, and learn together! Feel free to reach out for discussions, collaborations, or insights into my ongoing journey in the tech sphere. Excited for what lies ahead and eager to make meaningful contributions to this ever-evolving field!
+## 💼 Experiência com desenvolvimento web
 
+Sites desenvolvidos e mantidos por mim:
 
-## Contact
+* [MCGARD](https://mcgard.com.br/)
+* [Dra. Lilian](https://dralilian.com.br/)
+* [Thalita Merluzzi](https://thalitamerluzzi.com.br/)
 
-- LinkedIn: [Lucas Carneiro](https://www.linkedin.com/in/lucaslindholz)
+## 📚 Atualmente aprimorando
 
-Feel free to reach out and connect with me on LinkedIn. I'm always open to collaborations and learning opportunities!
+* C# e .NET
+* WPF e aplicações desktop
+* Arquitetura de software
+* Sistemas cliente-servidor
+* Fundamentos de redes e TCP/IP
+* Bancos de dados
 
- 
+## 🎯 Objetivo
+
+Construir experiência profissional como **desenvolvedor de software**, evoluindo no desenvolvimento de sistemas e arquiteturas.
+
+## 📫 Contato
+
+[**LinkedIn:** Lucas Lindholz](https://www.linkedin.com/in/lucaslindholz/)
