@@ -1,57 +1,52 @@
-# Lucas Lindholz
+# Olá, eu sou Lucas Carneiro 👋
 
-### Desenvolvedor de Software | C# · .NET · JavaScript
+🎓 Graduado em Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor de Software | C# | .NET | JavaScript
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho experiência com **desenvolvimento web**, principalmente utilizando WordPress, HTML, CSS e JavaScript.
+Sou desenvolvedor formado em Análise e Desenvolvimento de Sistemas, com experiência em desenvolvimento web e desenvolvimento de aplicações utilizando C# e .NET.
 
-Atualmente, estou ampliando minha atuação para o desenvolvimento de software com **C# e .NET**, criando aplicações desktop e sistemas cliente-servidor.
+Atualmente, meu foco está no desenvolvimento de software com **C# e .NET**, incluindo aplicações desktop, arquitetura de software, comunicação cliente-servidor e bancos de dados.
 
-## 🛠️ Tecnologias e conhecimentos
+Recentemente desenvolvi uma solução de controle de tempo e acesso para computadores, criada para atender uma necessidade real da OAB Osasco. O projeto envolveu desenvolvimento de aplicações desktop com WPF, comunicação cliente-servidor via TCP/IP, gerenciamento de sessões e controle centralizado de múltiplos computadores.
 
-* **C# / .NET / WPF**
-* **JavaScript / HTML5 / CSS3**
-* **Python**
-* **WordPress**
-* **MySQL e bancos de dados**
-* **SEO**
-* **Git e GitHub**
-* **Conceitos iniciais de redes e TCP/IP**
+## 🚀 Tecnologias e conhecimentos
 
-## 🚀 Projeto atual
+### Desenvolvimento de Software
 
-Atualmente estou desenvolvendo um **sistema de controle de computadores em rede**, utilizando:
+- C#
+- .NET
+- WPF
+- Aplicações Desktop
+- Arquitetura de Software
+- Comunicação Cliente-Servidor
+- Redes e protocolos TCP/IP
+- Bancos de Dados
 
-* C# e .NET 10
-* WPF
-* Arquitetura cliente-servidor
-* Comunicação via TCP
-* Controle de sessões e tempo de uso
-* Bloqueio e desbloqueio de computadores
-* Gerenciamento de múltiplos clientes
+### Desenvolvimento Web
 
-O projeto representa minha evolução do desenvolvimento web para o desenvolvimento de **sistemas e aplicações desktop**.
+Tenho experiência profissional com desenvolvimento e manutenção de sites utilizando:
 
-## 💼 Experiência com desenvolvimento web
+- JavaScript
+- HTML5
+- CSS3
+- WordPress
+- MySQL
+- SEO
 
-Sites desenvolvidos e mantidos por mim:
+Alguns dos projetos web desenvolvidos incluem:
 
-* [MCGARD](https://mcgard.com.br/)
-* [Dra. Lilian](https://dralilian.com.br/)
-* [Thalita Merluzzi](https://thalitamerluzzi.com.br/)
+- mcgard.com.br
+- dralilian.com.br
+- thalitamerluzzi.com.br
 
-## 📚 Atualmente aprimorando
+### Outras tecnologias
 
-* C# e .NET
-* WPF e aplicações desktop
-* Arquitetura de software
-* Sistemas cliente-servidor
-* Fundamentos de redes e TCP/IP
-* Bancos de dados
+- Python
+- Git
+- GitHub
 
-## 🎯 Objetivo
+## 📌 Atualmente
 
-Construir experiência profissional como **desenvolvedor de software**, evoluindo no desenvolvimento de sistemas e arquiteturas.
+Busco continuar evoluindo como desenvolvedor por meio da construção de projetos e soluções para problemas reais, com foco principalmente em desenvolvimento de software, arquitetura de sistemas e aplicações desktop.
 
-## 📫 Contato
-
-[**LinkedIn:** Lucas Lindholz](https://www.linkedin.com/in/lucaslindholz/)
+[LinkedIn](https://linkedin.com/in/lucaslindholz)
