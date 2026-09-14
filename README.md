@@ -35,9 +35,9 @@ Tenho experiência profissional com desenvolvimento e manutenção de sites util
 
 Alguns dos projetos web desenvolvidos incluem:
 
-- mcgard.com.br
-- dralilian.com.br
-- thalitamerluzzi.com.br
+- https://mcgard.com.br/
+- https://dralilian.com.br/
+- https://thalitamerluzzi.com.br/
 
 ### Outras tecnologias
 
